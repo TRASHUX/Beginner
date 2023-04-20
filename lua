@@ -1,1 +1,1 @@
-print("Retarded Aler!")
+print("Retarded Alert!")
